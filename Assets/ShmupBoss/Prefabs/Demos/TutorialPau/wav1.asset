@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eef59000605ba844ab9b36760ea8492, type: 3}
   m_Name: wav1
   m_EditorClassIdentifier: 
-  NumberOfEnemiesToSpawn: 3
+  NumberOfEnemiesToSpawn: 0
   isSpawningEnemiesInRandomOrder: 0
   TimeBetweenEnemies: 1
   isRandomTimeBetweenEnemies: 0
